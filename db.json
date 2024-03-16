@@ -11,6 +11,411 @@
       "id": "e874"
     }
   ],
-  "products": [],
-  "sales": []
+  "products": [
+    {
+      "productName": "Jack Perfume",
+      "productPrice": "250",
+      "productQuantity": 77,
+      "id": "93d5"
+    },
+    {
+      "productName": "James Perfume",
+      "productPrice": "250",
+      "productQuantity": 98,
+      "id": "5763"
+    },
+    {
+      "productName": "Charles Perfume",
+      "productPrice": "250",
+      "productQuantity": 93,
+      "id": "ec07"
+    },
+    {
+      "id": "59e6",
+      "productName": "Elijah Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "productName": "Lucas Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "d3de"
+    },
+    {
+      "productName": "Oliver Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "451f"
+    },
+    {
+      "productName": "William Perfume",
+      "productPrice": "250",
+      "productQuantity": 97,
+      "id": "7dc7"
+    },
+    {
+      "productName": "Alexander Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "9039"
+    },
+    {
+      "id": "3788",
+      "productName": "Benjamin Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "id": "8709",
+      "productName": "Daniel Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "productName": "Henry Perfume",
+      "productPrice": "250",
+      "productQuantity": 89,
+      "id": "9034"
+    },
+    {
+      "id": "78f4",
+      "productName": "Mateo Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "productName": "Noah Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "fb8e"
+    },
+    {
+      "id": "2a67",
+      "productName": "Thomas Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "productName": "Christopher Perfume",
+      "productPrice": "250",
+      "productQuantity": 96,
+      "id": "b2f2"
+    },
+    {
+      "productName": "David Perfume",
+      "productPrice": "250",
+      "productQuantity": 98,
+      "id": "394d"
+    },
+    {
+      "productName": "Richard Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "aabd"
+    },
+    {
+      "productName": "Sebastian Perfume",
+      "productPrice": "250",
+      "productQuantity": 248,
+      "id": "7980"
+    },
+    {
+      "productName": "Theodore Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "efd3"
+    },
+    {
+      "id": "2962",
+      "productName": "Amir Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    },
+    {
+      "productName": "Andre Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "7542"
+    },
+    {
+      "productName": "Anthony Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "bf19"
+    },
+    {
+      "productName": "Asher Perfume",
+      "productPrice": "250",
+      "productQuantity": 99,
+      "id": "4aa0"
+    },
+    {
+      "id": "e257",
+      "productName": "Brian Perfume",
+      "productPrice": "250",
+      "productQuantity": "100"
+    }
+  ],
+  "sales": [
+    {
+      "id": "8747",
+      "productName": "Jack Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:35 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "fc48",
+      "productName": "Jack Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:40 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "aa0c",
+      "productName": "James Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:41 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "640a",
+      "productName": "James Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:42 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "f4fc",
+      "productName": "Charles Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:42 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "6310",
+      "productName": "Charles Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:43 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "ff41",
+      "productName": "William Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:43 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "9271",
+      "productName": "William Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:44 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "1058",
+      "productName": "Henry Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:44 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "a725",
+      "productName": "Henry Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:46 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "f221",
+      "productName": "Henry Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:46 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "c3ed",
+      "productName": "David Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:46 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "8b43",
+      "productName": "Noah Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:48 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "cd1f",
+      "productName": "Christopher Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:48 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "4107",
+      "productName": "Sebastian Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:49 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "11d0",
+      "productName": "Anthony Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:50 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "db54",
+      "productName": "Asher Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:51 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "f97d",
+      "productName": "Andre Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:51 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "1cc4",
+      "productName": "Sebastian Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:52 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "337c",
+      "productName": "Sebastian Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:53 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "e26d",
+      "productName": "Sebastian Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:53 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "4555",
+      "productName": "Theodore Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:53 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "138e",
+      "productName": "Theodore Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:54 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "de01",
+      "productName": "Theodore Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:54 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "6703",
+      "productName": "Richard Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:54 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "165d",
+      "productName": "David Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:38:54 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "3a42",
+      "productName": "William Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:39:07 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "004a",
+      "productName": "Oliver Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:39:09 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "3885",
+      "productName": "Lucas Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:39:10 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "63d5",
+      "productName": "Alexander Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:39:10 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "5cb7",
+      "productName": "Jack Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:39:35 PM",
+      "totalProductQuantity": "10"
+    },
+    {
+      "id": "d735",
+      "productName": "Christopher Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:48:06 PM",
+      "totalProductQuantity": "3"
+    },
+    {
+      "id": "59d1",
+      "productName": "Charles Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:48:08 PM",
+      "totalProductQuantity": "6"
+    },
+    {
+      "id": "4beb",
+      "productName": "Andre Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:48:58 PM",
+      "totalProductQuantity": "10"
+    },
+    {
+      "id": "2d9a",
+      "productName": "Henry Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:49:20 PM",
+      "totalProductQuantity": "10"
+    },
+    {
+      "id": "b210",
+      "productName": "James Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:53:35 PM",
+      "totalProductQuantity": 1
+    },
+    {
+      "id": "4468",
+      "productName": "Jack Perfume",
+      "productPrice": "250",
+      "purchaseDate": "3/16/2024, 2:53:53 PM",
+      "totalProductQuantity": "13"
+    }
+  ]
 }
