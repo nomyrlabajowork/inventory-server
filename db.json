@@ -1,111 +1,16 @@
 {
   "users": [
     {
-      "username": "test",
-      "password": "test",
+      "username": "nomyrlabajo",
+      "password": "SecureP4ss",
       "id": "e873"
+    },
+    {
+      "username": "jushwadeomampo",
+      "password": "SecureP4ss!",
+      "id": "e874"
     }
   ],
-  "products": [
-    {
-      "productName": "Invictus",
-      "productPrice": "300",
-      "productQuantity": 52,
-      "id": "617a"
-    },
-    {
-      "productName": "Lacoste",
-      "productPrice": "350",
-      "productQuantity": 40,
-      "id": "5a60"
-    },
-    {
-      "productName": "Gatsby",
-      "productPrice": "390",
-      "productQuantity": 45,
-      "id": "0528"
-    },
-    {
-      "productName": "Vanilla",
-      "productPrice": "600",
-      "productQuantity": 55,
-      "id": "1d55"
-    },
-    {
-      "productName": "Juicy Apple",
-      "productPrice": "105",
-      "productQuantity": 30,
-      "id": "0d30"
-    },
-    {
-      "productName": "Coffee",
-      "productPrice": "260",
-      "productQuantity": 52,
-      "id": "80ee"
-    },
-    {
-      "id": "aa23",
-      "productName": "testProduct",
-      "productPrice": "150",
-      "productQuantity": "50"
-    }
-  ],
-  "sales": [
-    {
-      "id": "cf9c",
-      "productName": "Invictus",
-      "productPrice": "300",
-      "purchaseDate": "3/15/2024, 6:58:23 PM",
-      "totalProductQuantity": "3"
-    },
-    {
-      "id": "527a",
-      "productName": "Gatsby",
-      "productPrice": "390",
-      "purchaseDate": "3/15/2024, 6:59:16 PM",
-      "totalProductQuantity": "5"
-    },
-    {
-      "id": "faad",
-      "productName": "Juicy Apple",
-      "productPrice": "105",
-      "purchaseDate": "3/15/2024, 6:59:36 PM",
-      "totalProductQuantity": "10"
-    },
-    {
-      "id": "109e",
-      "productName": "Coffee",
-      "productPrice": "260",
-      "purchaseDate": "3/15/2024, 7:01:31 PM",
-      "totalProductQuantity": 1
-    },
-    {
-      "id": "f32a",
-      "productName": "Coffee",
-      "productPrice": "260",
-      "purchaseDate": "3/15/2024, 7:01:40 PM",
-      "totalProductQuantity": 1
-    },
-    {
-      "id": "503f",
-      "productName": "Coffee",
-      "productPrice": "260",
-      "purchaseDate": "3/15/2024, 7:01:41 PM",
-      "totalProductQuantity": 1
-    },
-    {
-      "id": "a7e1",
-      "productName": "Vanilla",
-      "productPrice": "600",
-      "purchaseDate": "3/15/2024, 7:03:46 PM",
-      "totalProductQuantity": "15"
-    },
-    {
-      "id": "9e75",
-      "productName": "Lacoste",
-      "productPrice": "350",
-      "purchaseDate": "3/15/2024, 7:03:55 PM",
-      "totalProductQuantity": "10"
-    }
-  ]
+  "products": [],
+  "sales": []
 }
